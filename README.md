@@ -251,6 +251,7 @@ df=pd.DataFrame(data)
 df.iloc[:,1]
 ```
 # Output:
+![Screenshot 2024-08-18 105615](https://github.com/user-attachments/assets/f5001f93-e874-4cdd-ac14-8485d767aba6)
 
 # Program 25:
 ```
