@@ -260,8 +260,9 @@ df=pd.DataFrame(data)
 df.loc[:,['name','age']]
 ```
 # Output:
+![Screenshot 2024-08-18 105341](https://github.com/user-attachments/assets/6fc0d15a-0085-459e-8d7b-6576eb64cc37)
 
-![Screenshot 2024-08-18 103725](https://github.com/user-attachments/assets/4461d869-8c40-429d-969e-40ae7acaeb8a)
+
 
 # Program 26:
 ```
